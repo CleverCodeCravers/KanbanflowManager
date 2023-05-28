@@ -4,6 +4,15 @@ A support application that helps with the management of a kanbanflow based board
 Date: 28.05.2023
 Responsible: Stefan Hoffmann
 
+## Process
+
+- [DOING] Problem Description
+- [ ] Requirements-Draft
+- [ ] System-Environment Graph/Architecture (Flow Design)
+- [ ] Graph of interactions (Flow Design)
+- [ ] Broad Design (Flow Design)
+- [ ] in-depth design where necessary (Flow Design)
+
 ## Background / Problem
 
 We work with a [kanbanflow based](https://kanbanflow.com) board. The board has several columns that cover our process.
