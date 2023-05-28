@@ -29,26 +29,34 @@ The managers tasks are:
 
 That is a lot to keep in mind and we do not perform optimally. Still, this is necessary to deliver good results.
 
-The problem will actually stay this way and only increase with task count.
+We think that the problem is, that the job contains so many different areas and topics that it is really hard for the management to give attention to everything that wants some.
 
 ## Current Situation
 
-- The manager
+- In the recent weeks our performance measured by general EFP and "Task Count completed" in projects is dropping.
+- We start more and more long running tasks without completing the currently running ones. 
+- Somehow we always end up in situations where the attention of the management has ignored a thing that is currently needed. This creates blocking situations where the team waits for the management to compensate for the issue. E.g. we encountered the following problems:
+  - build system maintainance is bad, windows updates are blocking our systems
+  - The long term developers work on tasks that span several weeks (the splitting into smaller tasks does not work). That is why they do not complete any tasks in our measurement system.
+  - we have meetings with other departments about important topics, but those topics are not the ones that we currently have to work on. We only have a meeting then perform 1-3 small tasks in that area and then we have other problems to deal with (even higher fragmentation of work)
 
-- How did you identify the problem at the site of occurrence ([[Gemba]])? (Really go to the site and look at the challenge there to make sure you really understand the problem. Confirm the facts by "go and see")
-- What numbers, data, and facts have you collected?
-- How have you broken down the problem into sub-problems?
-- How have you prioritized the sub-problems (degree of importance, urgency, potential spread)? Which of the sub-problems do you want to address within the scope of this A3 (possibly not all)?
-- How have you located the site of occurrence?
-- The place where the symptoms were discovered may not be where the problem occurred. Are you sure you have gone the whole way?
-- How did you measure the initial situation?
+At the moment we do not have a way to systemize the way the management works and to balance the attention.
 
 ## Target Situation
 
-1. What is the ideal situation (True North)? 
-2. Is the goal measurable?
-3. Does the goal meet the SMART criteria (specific, measurable, achievable, relevant, time-bound)?
-4. What measure/result do you expect in the target situation?
+The management has an effective way to drive the assignment of attention to the important areas.
+
+This way we assure that the following things are true in order:
+
+1. Our build systems are operational.
+2. Our long term developer(s) always have small tasks that they work on.
+3. The management will react to new mails and new incoming support cases.
+  1. Assign an EFP value.
+  2. Assign a time estimate.
+4. Management free to work on own development tasks for 25 Minutes.
+5. Check all rules again.
+
+When a rule above another rule is not true anymore, the managements task is to work on that until it is true again.
 
 ## Immediate Measures
 
