@@ -60,7 +60,7 @@ When a rule above another rule is not true anymore, the managements task is to w
 
 ## Immediate Measures
 
-Table of What, Who, When, Status, Effectiveness (2 lines?)
+- [ ] An immediate measure would be a simple "gong" app, that would remind management when another round is due.
 
 ## Root Cause Analysis
 
