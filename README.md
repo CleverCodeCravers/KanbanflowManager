@@ -46,15 +46,14 @@ At the moment we do not have a way to systemize the way the management works and
 
 The management has an effective way to drive the assignment of attention to the important areas.
 
-This way we assure that the following things are true in order:
+This way we assure that the following things are true in order (thats the "management loop"):
 
-1. Our build systems are operational.
-2. Our long term developer(s) always have small tasks that they work on.
-3. The management will react to new mails and new incoming support cases.
-  1. Assign an EFP value.
-  2. Assign a time estimate.
-4. Management free to work on own development tasks for 25 Minutes.
-5. Check all rules again.
+1. Do all ressources work that our developers need? No: Add them to a list for the free work time.
+2. Do our long term developer(s) always have at least 3 tasks that they work on that can be accomplished in 1 day each? No: create them instandly.
+3. Are there new E-Mails for existing support cases? (Work through them as fast as possible. In case they are bigger add them to the "list for free work time".)
+4. Are there new Support-Cases/Error reports on the board? (Work through them as fast as possible. In case they are bigger add them to the "list for free work time".)
+5. The Managements free work time (exactly 25 minutes to work on whatever is necessary). See list for free work.
+6. Check all rules again.
 
 When a rule above another rule is not true anymore, the managements task is to work on that until it is true again.
 
